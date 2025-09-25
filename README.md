@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project title and description
 
 Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
@@ -71,3 +72,12 @@ Include at least one way (or more, if possible) to reach your team with question
 Include details about the project's open source status.
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
+=======
+## Getting started
+
+1.	Install `uv` on your machine: `curl -LsSf https://astral.sh/uv/install.sh | sh `
+2.	Install all project dependencies from pyproject.toml (or exact versions from uv.lock if it exists): `uv sync`
+3.	Run database migrations: `uv run python manage.py migrate`
+4.	Start the development server: `uv run python manage.py runserver`
+5.	Open the app at: `http://127.0.0.1:8000/`
+>>>>>>> 32bb7f9 (Add project, app, django dependency)

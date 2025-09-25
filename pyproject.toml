@@ -1,0 +1,16 @@
+[project]
+name = "example-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.2.6",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.9.0",
+    "pytest-django>=4.11.1",
+    "ruff>=0.13.2",
+]

@@ -4,17 +4,19 @@ about: Use this issue to create an onboarding/offboarding issue 1 time.
 title: 'Onboard & Offboard: Product'
 labels: ''
 assignees: ''
-
 ---
 
 ### Overview
+
 We need to have a checklist of items to do when a product manager onboard and offboards so that the process can be consistent and fast.
 
 ### Date Updated
+
 (insert date you created this issue and keep updating the date each time the org template change are integrated)
 
 ### Action Items
-- [ ] Check to see if the org template for this process has new steps in it, and if it does, update this  issue and its template with content and add the last date you updated the template below
+
+- [ ] Check to see if the org template for this process has new steps in it, and if it does, update this issue and its template with content and add the last date you updated the template below
 - [ ] Copy template to comment below
 - [ ] Add name of person
 - [ ] Check off as done
@@ -47,7 +49,7 @@ We need to have a checklist of items to do when a product manager onboard and of
 - [ ] Figma
   - [ ] invite
   - [ ] acceptance
-- [ ] 1password 
+- [ ] 1password
      - [ ] invitation
      - [ ] acceptance
      - [ ] add to vaults
@@ -59,12 +61,13 @@ We need to have a checklist of items to do when a product manager onboard and of
    - [ ] [REPLACE with name of secondary email]
 - [ ] Social Media Accounts with role assignment
    - [ ] Facebook
-- [ ] Train how to 
+- [ ] Train how to
    - [ ] login to team account
    - [ ] setup chrome shortcut for adding to desktop
    - [ ] use zoom spreadsheet, vault and accounts
    - [ ] calendar invite
 ```
+
 ```
 #### Offboard
 - [ ] Remove from Google calendar invite
@@ -97,22 +100,25 @@ We need to have a checklist of items to do when a product manager onboard and of
 ```
 
 ### Resources/Instructions
+
 - [1password.com](https://1password.com/)
 - [REPLACE with Google Drive Link]
 - [REPLACE with Team Roster]
 - Check public and 2FA at [people page](https://github.com/orgs/hackforla/people)
 - [REPLACE with GitHub Team URL]
-   - [base (read)]
-   - [write]
-   - [maintain]
-   - [triage]
-   - [admin]
-   - [other]
-- WIKI team page: https://github.com/hackforla/[Replace with name of your project]/wiki/The-Team
+    - [base (read)]
+    - [write]
+    - [maintain]
+    - [triage]
+    - [admin]
+    - [other]
+- WIKI team page: https://github.com/hackforla/[Replace with name of your project\]/wiki/The-Team
 - [Replace with name of your project Figma]
-- Shortcut for adding a profile to the desktop:  chrome://settings/manageProfile
+- Shortcut for adding a profile to the desktop: chrome://settings/manageProfile
 - Tutorials
-  - [Forward emails to team members](https://github.com/hackforla/product-management/wiki/Forward-emails-to-team-members)
+    - [Forward emails to team members](https://github.com/hackforla/product-management/wiki/Forward-emails-to-team-members)
+
 ---
+
 [org template](https://raw.githubusercontent.com/hackforla/.github/main/.github/ISSUE_TEMPLATE/onboard---offboard--product.md) updated 2022-02-23
 [Changelog](https://github.com/hackforla/product-management/wiki/Onboard-Offboard-Changelog)
